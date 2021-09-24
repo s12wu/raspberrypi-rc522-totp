@@ -9,7 +9,7 @@ This software is based on the library of a [blog post](https://pimylifeup.com/ra
 
 ## install depencies
 * tkinter (window) `sudo apt install python3-tk`
-* pyotp (totp generator) `pip3 install pyotp`
+* pyotp (totp generator) and notify2 (desktop notifications) `pip3 install pyotp notify2`
 
 ## write your secrets to the tag
 Every application has its base32-encoded secret string. Use the Write.py from the example to write write your secrets to the tag: `SECRET1.SECRET2.`
