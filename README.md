@@ -1,7 +1,7 @@
 # raspberrypi-rc522-totp
 TOTP code generator for Raspberry Pi with secrets stored on rc522 RFID tag
 
-![screenshotMainWindow](https://user-images.githubusercontent.com/90598549/134535697-83d64e2b-03be-4632-bc80-8a2dbb2863fe.png)
+![totpScreenshot](https://user-images.githubusercontent.com/90598549/134674451-96f7f653-550b-491d-a8c6-fc62a4c356c7.png)
 
 
 ## install your RC522 reader
